@@ -1,1 +1,1 @@
-# Parallel-and-Distributed-Systems-SPD-
+# Parallel and Distributed Systems
