@@ -2,7 +2,6 @@ import multiprocessing
 from multiprocessing import Process
 from multiprocessing import Value
 
-
 shared_counter = Value('i', 0)
 workers = 8
 iterations = 10_000
